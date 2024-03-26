@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 🤗
 
 I am Maciej Chrabaszcz, a dedicated PhD candidate at Warsaw University of Technology (WUT). My academic journey is deeply rooted in the field of exploratory model analysis, where I employ adversarial techniques and Explainable AI (XAI) methods to uncover new insights.
 
