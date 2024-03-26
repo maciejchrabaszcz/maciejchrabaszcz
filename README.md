@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Welcome to my personal webpage!
+
+I am Maciej Chrabaszcz, a dedicated PhD candidate at Warsaw University of Technology (WUT). My academic journey is deeply rooted in the field of exploratory model analysis, where I employ adversarial techniques and Explainable AI (XAI) methods to uncover new insights.
+
+My doctoral research is centered on the strategic evaluation of AI Foundation Models through red teaming approaches, aiming to enhance their robustness and reliability.
+
+Should you wish to discuss my research or have any inquiries, feel free to contact me at: maciej.chrabaszcz.dokt@pw.edu.pl
 <!--
 **maciejchrabaszcz/maciejchrabaszcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
