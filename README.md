@@ -4,9 +4,10 @@ I am Maciej Chrabaszcz, a dedicated PhD candidate at Warsaw University of Techno
 
 My doctoral research is centered on the strategic evaluation of AI Foundation Models through red teaming approaches, aiming to enhance their robustness and reliability.
 
+### Contact 📧
 Should you wish to discuss my research or have any inquiries, feel free to contact me at: maciej.chrabaszcz.dokt@pw.edu.pl
 
-## Publications
+## Publications ✍
 ### 2023
 - [Be Careful When Evaluating Explanations Regarding Ground Truth](https://arxiv.org/abs/2311.04813)
 <!--
