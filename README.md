@@ -8,6 +8,9 @@ My doctoral research is centered on the strategic evaluation of AI Foundation Mo
 Should you wish to discuss my research or have any inquiries, feel free to contact me at: maciej.chrabaszcz.dokt@pw.edu.pl
 
 ## Publications ✍
+
+### 2024
+- [Swin SMT: Global Sequential Modeling in 3D Medical Image Segmentation](https://arxiv.org/abs/2407.07514)
 ### 2023
 - [Be Careful When Evaluating Explanations Regarding Ground Truth](https://arxiv.org/abs/2311.04813)
 <!--
