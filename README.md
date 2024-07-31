@@ -10,6 +10,7 @@ Should you wish to discuss my research or have any inquiries, feel free to conta
 ## Publications ✍
 
 ### 2024
+- [Aggregated Attributions for Explanatory Analysis of 3D Segmentation Models](https://arxiv.org/abs/2407.16653v2)
 - [Swin SMT: Global Sequential Modeling in 3D Medical Image Segmentation](https://arxiv.org/abs/2407.07514)
 ### 2023
 - [Be Careful When Evaluating Explanations Regarding Ground Truth](https://arxiv.org/abs/2311.04813)
