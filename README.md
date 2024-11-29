@@ -1,8 +1,8 @@
 # Hi there 🤗
 
-I am Maciej Chrabaszcz, a PhD student at Warsaw University of Technology (WUT). My research area lies in the field of exploratory model analysis, where I use adversarial and Explainable AI (XAI) methods to uncover insights about models.
+I am Maciej Chrabaszcz, a PhD student at Warsaw University of Technology (WUT) and AI Safety engineer at NASK - National Research Institute. My research focuses on AI Safety, with a particular interest in developing efficient methods for enhancing model safety.
 
-My doctoral research is centered on the strategic evaluation of AI Foundation Models through red teaming approaches, aiming to enhance their robustness and reliability.
+My research is centered on AI Safety, with a focus on efficient methods for increasing models safety. I am interested in methods that can efficiently improve model safety and detect when they behave abnormally.
 
 ### Contact 📧
 Should you wish to discuss my research or have any inquiries, feel free to contact me at: maciej.chrabaszcz.dokt@pw.edu.pl
