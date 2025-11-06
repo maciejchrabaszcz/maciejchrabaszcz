@@ -8,7 +8,7 @@ My research in AI Safety centers on developing efficient techniques to both enha
 Should you wish to discuss my research or have any inquiries, feel free to contact me at: maciej.chrabaszcz.dokt@pw.edu.pl/maciej.chrabaszcz@nask.pl
 
 ## Publications ✍
-### 2025
+
 - [Mamba Goes HoME: Hierarchical Soft Mixture-of-Experts for 3D Medical Image Segmentation](https://openreview.net/forum?id=ztgYn0Uk94) \
 Szymon Plotka, Gizem Mert, **Maciej Chrabąszcz**, Ewa Szczurek, Arkadiusz Sitek \
 _NeurIPS 2025_
@@ -24,11 +24,11 @@ _TrustNLP 2025_
 - [Aggregated Attributions for Explanatory Analysis of 3D Segmentation Models](https://arxiv.org/abs/2407.16653v3) \
   **Maciej Chrabąszcz***, Hubert Baniecki*, Piotr Komorowski, Szymon Płotka, Przemyslaw Biecek \
   _WACV 2025 Oral Presentation_
-### 2024
+
 - [Swin SMT: Global Sequential Modeling in 3D Medical Image Segmentation](https://arxiv.org/abs/2407.07514) \
   Szymon Płotka*, **Maciej Chrabąszcz***, Przemyslaw Biecek \
   _MICCAI 2024 Oral Presentation_
-### 2023
+
 - [Be Careful When Evaluating Explanations Regarding Ground Truth](https://arxiv.org/abs/2311.04813) \
   Hubert Baniecki*, **Maciej Chrabąszcz***, Andreas Holzinger, Bastian Pfeifer, Anna Saranti, Przemyslaw Biecek \
-  _arXiv Preprint_
+  _arXiv 2023 Preprint_
