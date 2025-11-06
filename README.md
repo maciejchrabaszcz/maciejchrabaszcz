@@ -2,7 +2,7 @@
 
 I am Maciej Chrabąszcz, a PhD student at Warsaw University of Technology (WUT) and an AI Safety researcher at NASK - National Research Institute.
 
-My research is centered on AI Safety, with a focus on efficient methods for increasing models safety. I am interested in methods that can efficiently improve model safety and detect when they behave abnormally.
+My research in AI Safety centers on developing efficient techniques to both enhance model safety and detect anomalous behavior. I am particularly focused on approaches that utilize the internal latent representations of generative models to achieve these objectives.
 
 ### Contact 📧
 Should you wish to discuss my research or have any inquiries, feel free to contact me at: maciej.chrabaszcz.dokt@pw.edu.pl/maciej.chrabaszcz@nask.pl
