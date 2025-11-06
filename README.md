@@ -1,6 +1,6 @@
 # Hi there 🤗
 
-I am Maciej Chrabaszcz, a PhD student at Warsaw University of Technology (WUT) and an AI Safety researcher at NASK - National Research Institute.
+I am Maciej Chrabąszcz, a PhD student at Warsaw University of Technology (WUT) and an AI Safety researcher at NASK - National Research Institute.
 
 My research is centered on AI Safety, with a focus on efficient methods for increasing models safety. I am interested in methods that can efficiently improve model safety and detect when they behave abnormally.
 
@@ -10,13 +10,13 @@ Should you wish to discuss my research or have any inquiries, feel free to conta
 ## Publications ✍
 ### 2025
 - [Mamba Goes HoME: Hierarchical Soft Mixture-of-Experts for 3D Medical Image Segmentation](https://openreview.net/forum?id=ztgYn0Uk94) \
-Szymon Plotka, Gizem Mert, **Maciej Chrabaszcz**, Ewa Szczurek, Arkadiusz Sitek \
+Szymon Plotka, Gizem Mert, **Maciej Chrabąszcz**, Ewa Szczurek, Arkadiusz Sitek \
 _NeurIPS 2025_
 - [PLLuM-Align: Polish Preference Dataset for Large Language Model Alignment](https://aclanthology.org/2025.emnlp-main.1219/) \
-  Karolina Seweryn, Anna Kołos, Agnieszka Karlińska, Katarzyna Lorenc, Katarzyna Dziewulska, **Maciej Chrabaszcz**, Aleksandra Krasnodebska, Paula Betscher, Zofia Cieślińska, Katarzyna Kowol, Julia Moska, Dawid Motyka, Paweł Walkowiak, Bartosz Żuk, Arkadiusz Janz \
+  Karolina Seweryn, Anna Kołos, Agnieszka Karlińska, Katarzyna Lorenc, Katarzyna Dziewulska, **Maciej Chrabąszcz**, Aleksandra Krasnodebska, Paula Betscher, Zofia Cieślińska, Katarzyna Kowol, Julia Moska, Dawid Motyka, Paweł Walkowiak, Bartosz Żuk, Arkadiusz Janz \
   _EMNLP 2025 Main_
 - [Rainbow-Teaming for the Polish Language: A Reproducibility Study](https://aclanthology.org/2025.trustnlp-main.12/) \
-Aleksandra Krasnodębska, **Maciej Chrabaszcz**, Wojciech Kusa \
+Aleksandra Krasnodębska, **Maciej Chrabąszcz**, Wojciech Kusa \
 _TrustNLP 2025_
 - [Maybe I Should Not Answer That, but... Do LLMs Understand The Safety of Their Inputs?](https://arxiv.org/abs/2502.16174) \
   **Maciej Chrabąszcz**, Filip Szatkowski, Bartosz Wójcik, Jan Dubiński, Tomasz Trzciński \
