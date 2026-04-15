@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/maciejchrabaszcz/maciejchrabaszcz/main/assets/images/profile-pic.jpg" align="right" width="180" style="border-radius: 50%; margin-left: 20px;">
-
 # Hi there 🤗 I'm Maciej Chrabąszcz
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=qdUVcecAAAAJ&hl=en)
@@ -16,7 +14,7 @@ My research explores the internal latent representations of generative models to
 ## ✍️ Selected Publications
 > *Equal contribution is denoted by `*`.*
 
-* **[Maybe I Should Not Answer That, but... Do LLMs Understand The Safety of Their Inputs?](https://arxiv.org/abs/2502.16174)**
+* **[Maybe I Should Not Answer That, but... Do LLMs Understand The Safety of Their Inputs?](https://openreview.net/forum?id=iT0oH3DfAV&noteId=iT0oH3DfAV)**
     <br>**Maciej Chrabąszcz**, Filip Szatkowski, Bartosz Wójcik, Jan Dubiński, Tomasz Trzciński
     <br>_ICLR 2025 Workshop Building Trust in LLMs and LLM Applications_
 * **[Aggregated Attributions for Explanatory Analysis of 3D Segmentation Models](https://arxiv.org/abs/2407.16653v3)** 🏆 *Oral Presentation*
