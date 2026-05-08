@@ -13,7 +13,9 @@ My research explores the internal latent representations of generative models to
 
 ## ✍️ Selected Publications
 > *Equal contribution is denoted by `*`.*
-
+* **[Efficient LLM Moderation with Multi-Layer Latent Prototypes](https://arxiv.org/abs/2502.16174)**
+    <br>**Maciej Chrabąszcz**, Filip Szatkowski, Bartosz Wójcik, Jan Dubiński, Tomasz Trzciński, Sebastian Cygert
+    <br>_ICML 2026_
 * **[Maybe I Should Not Answer That, but... Do LLMs Understand The Safety of Their Inputs?](https://openreview.net/forum?id=iT0oH3DfAV&noteId=iT0oH3DfAV)**
     <br>**Maciej Chrabąszcz**, Filip Szatkowski, Bartosz Wójcik, Jan Dubiński, Tomasz Trzciński
     <br>_ICLR 2025 Workshop Building Trust in LLMs and LLM Applications_
